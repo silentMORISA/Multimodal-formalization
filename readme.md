@@ -19,4 +19,4 @@ with Formal Language and Symbolic Reasoning](<./Geometry problem solving/Lu 等 
 1. PhyX-AF
 - Source paper: [MMFormalizer: Multimodal Autoformalization in the Wild](<./Multimodal LEAN formalization/Xiong 等 - 2026 - MMFormalizer Multimodal Autoformalization in the Wild.pdf>)
 - Website: https://huggingface.co/datasets/menik1126/PhyX-AF
-- Details: Comprising 115 curated samples from MathVerse, PhyX, Synthetic Geometry, and Analytic Geometry.
+- Details: Comprising 115 curated samples from MathVerse, PhyX, Synthetic Geometry, and Analytic Geometry. lean statements are not provided.
